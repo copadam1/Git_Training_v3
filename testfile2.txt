@@ -1,1 +1,2 @@
 Bu bir test reposudur ve test dosyasıdır.
+Bu Satiri CLI ekranından eklendim.
